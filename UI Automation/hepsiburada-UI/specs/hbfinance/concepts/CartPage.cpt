@@ -1,0 +1,10 @@
+Created by berka on 2.05.2022
+
+This is a concept file with following syntax for each concept.
+
+# CONCEPT Urun detay sayfasindaki fiyat ile sepetteki fiyat dogrulamasi yapilir
+* Click to element "addToCartButton"
+* Wait until element visible "goToCartButton"
+* Click to element "goToCartButton"
+* "cartPage_priceLabel" li elementin text degerini "cartPagePrice" olarak sakla
+* "productDetailPagePrice" ve "cartPagePrice" degerlerini dogrula

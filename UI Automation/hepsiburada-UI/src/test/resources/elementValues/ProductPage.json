@@ -1,0 +1,17 @@
+[
+  {
+    "key": "priceLabel",
+    "value": "span[class='price price-new hepsiburada']",
+    "type": "css"
+  },
+  {
+    "key": "addToCartButton",
+    "value": "button[id='addToCart']",
+    "type": "css"
+  },
+  {
+    "key": "goToCartButton",
+    "value": "//button[contains(text(),'Sepete git')]",
+    "type": "xpath"
+  }
+]

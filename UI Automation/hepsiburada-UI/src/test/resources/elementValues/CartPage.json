@@ -1,0 +1,12 @@
+[
+  {
+    "key": "cartPage_priceLabel",
+    "value": "//div[contains(@class,'co-hbPrice')]//div[@data-test-id='price-current-price']",
+    "type": "xpath"
+  },
+  {
+    "key": "sadg",
+    "value": "button[id='addToCart']",
+    "type": "css"
+  }
+]

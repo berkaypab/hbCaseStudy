@@ -1,0 +1,18 @@
+Created by berka on 2.05.2022
+
+This is a concept file with following syntax for each concept.
+# Wait 5 second
+* Wait "5000" milliseconds
+
+# CONCEPT Ana sayfa acilir
+* Navigate to home page
+* "accountSection_Div" li elementin ekranda goruntulendigini dogrula
+
+# CONCEPT Popuplar kapatilir
+* Wait "1" milliseconds
+
+# CONCEPT <searchParam> kelimesi ile urun arama yapilir
+* "searchBar_TextArea" li alanı temizle, <searchParam> değerini yaz
+* Click to element "searchBar_Ara_Button"
+
+

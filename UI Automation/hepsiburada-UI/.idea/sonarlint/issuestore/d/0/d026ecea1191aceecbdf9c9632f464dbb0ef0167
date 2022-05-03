@@ -1,0 +1,8 @@
+
+0
+java:S3457*"Not enough arguments.(êîõÿÿÿÿÿ
+c
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(æÌïûÿÿÿÿ8¹™‹ªˆ0
+Y
+java:S2629G"7Use the built-in formatting to construct this argument.(æÌïûÿÿÿÿ8¼™‹ªˆ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª™‘¥ıÿÿÿÿ

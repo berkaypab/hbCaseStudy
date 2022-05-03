@@ -1,0 +1,7 @@
+Created by berka on 2.05.2022
+
+This is a concept file with following syntax for each concept.
+# CONCEPT Urunlerin listelendigi sayfada rastgele bir urun secilir ve tiklanir
+* "products" menu listesinden rasgele sec
+* Son sekmeye odaklan
+* "priceLabel" elementinin "content" attribute degerini al ve "productDetailPagePrice" olarak sakla

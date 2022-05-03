@@ -1,0 +1,17 @@
+[
+  {
+    "key": "accountSection_Div",
+    "value": "div[id='myAccount']",
+    "type": "css"
+  },
+  {
+    "key": "searchBar_TextArea",
+    "value": "input[class*='AutosuggestTheme-input']",
+    "type": "css"
+  },
+  {
+    "key": "searchBar_Ara_Button",
+    "value": "//div[contains(text(),'ARA')]",
+    "type": "xpath"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "key": "products",
+    "value": "//li[starts-with(@id,'i')]//a",
+    "type": "xpath"
+  },
+  {
+    "key": "paginationRoot",
+    "value": "//div[@class='paginatorStyle-root']",
+    "type": "xpath"
+  }
+]

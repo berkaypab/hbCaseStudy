@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "fruitId": {
+          "type": "integer"
+        },
+        "fruitName": {
+          "type": "string"
+        },
+        "price": {
+          "type": "integer"
+        },
+        "stock": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "fruitId",
+        "fruitName",
+        "price",
+        "stock"
+      ]
+    }
+  ]
+}

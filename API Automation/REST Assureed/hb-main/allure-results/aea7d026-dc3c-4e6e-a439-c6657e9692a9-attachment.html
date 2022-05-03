@@ -1,0 +1,31 @@
+<div>PUT to http://localhost:9092/allGrocery/660</div>
+
+<h4>Body</h4>
+<div>
+    <pre class="preformated-text">
+    {
+    &quot;fruitId&quot;: 660,
+    &quot;fruitName&quot;: &quot;bVf&quot;,
+    &quot;price&quot;: 200,
+    &quot;stock&quot;: 1260
+}
+    </pre>
+</div>
+
+<h4>Headers</h4>
+<div>
+        <div>Accept: */*</div>
+        <div>Content-Type: application/json; charset=UTF-8</div>
+</div>
+
+
+
+<h4>Curl</h4>
+<div>
+curl -v -X PUT &#39;http://localhost:9092/allGrocery/660&#39; -H &#39;Accept: */*&#39; -H &#39;Content-Type: application/json; charset=UTF-8&#39; -d &#39;{
+    &quot;fruitId&quot;: 660,
+    &quot;fruitName&quot;: &quot;bVf&quot;,
+    &quot;price&quot;: 200,
+    &quot;stock&quot;: 1260
+}&#39;
+</div>
